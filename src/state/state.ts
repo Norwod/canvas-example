@@ -72,7 +72,7 @@ export function smartAppDataHandler(action: InputActionType) {
         }
 
         default:
-            throw new Error();
+           
     }
 }
 
